@@ -8,5 +8,8 @@ CT-527-Image-Processing-and-Computer-Vision
 - **Case Study - Arithmetic Operators**:
   - Background Subtraction using Arithmetic Operator
 
+- **Case Study - Color Channels**:
+  - Skin Disease Segmentation using Color Channels
+
 - **Case Study - Morphology**:
-  - Skinn Disease Segmentation
+  - Blood Vessel Segmentation using Morphological Operations
